@@ -1,5 +1,5 @@
-# React-Code_Syntax
-Code Syntax built with reactjs using react-syntax-highlighter and lang-detector.
+# React Syntax Highliter
+this apllication built with reactjs using react-syntax-highlighter and lang-detector.
 
 ## Demo
 
