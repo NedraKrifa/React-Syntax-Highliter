@@ -1,0 +1,15 @@
+.app{
+    display: grid;
+    justify-content: center;
+    grid-row-gap: 20px;
+}
+.app h1{
+    text-align: center;
+    color: dodgerblue;
+}
+.form_text{
+    flex: 6;
+}
+.form{
+    display: flex;
+}
